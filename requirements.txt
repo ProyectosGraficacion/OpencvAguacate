@@ -1,0 +1,4 @@
+imtools==2.0.1
+imutils==0.5.4
+numpy==1.26.2
+opencv-python==4.8.1.78
